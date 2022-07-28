@@ -19,3 +19,6 @@ Hola me llamo **Aldo Meztas Hernandez** soy development full stack :stuck_out_to
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+ese carnal! :zipper_mouth_face:
+
