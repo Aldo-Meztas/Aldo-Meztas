@@ -28,7 +28,7 @@ Skills: VUE JS / JS / HTML / CSS / PYTHON / DJANGO / PHP / DART / FLUTTER / JAVA
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aldo-Meztas)  
 
-![Profile views](https://github-readme-streak-stats.herokuapp.com/?user=Aldo-Meztas)
-
 ![Profile views](https://gpvc.arturio.dev/Aldo-Meztas)
+
+![angular](https://user-images.githubusercontent.com/71904421/189272251-22884cc0-88ec-4afe-9ce3-c1ce6e02d5dd.svg)
 
