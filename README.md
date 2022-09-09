@@ -26,7 +26,7 @@ I am a curious person who likes to grow in all work and social environments. I l
 - 🌱 I’m currently learning Spring Boot, Grails, C# 
 - 📫 How to reach me: aldomeztas@protonmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aldo-Meztas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aldo-meztas/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg' alt='facebook' height='40'>](https://www.facebook.com/aldo.jordison.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ALDO_MEZTAS)  
+[<img src='https://cdn.worldvectorlogo.com/logos/github-icon.svg' alt='github' height='40'>](https://github.com/Aldo-Meztas)  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aldo-meztas/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg' alt='facebook' height='40'>](https://www.facebook.com/aldo.jordison.7)  [<img src='https://cdn.worldvectorlogo.com/logos/reddit-4.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ALDO_MEZTAS)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aldo-Meztas)](https://github.com/ryo-ma/github-profile-trophy)
 
