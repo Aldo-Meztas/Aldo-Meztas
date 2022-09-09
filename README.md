@@ -22,7 +22,7 @@ I am a curious person who likes to grow in all work and social environments. I l
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/71904421/189275521-860becc5-977a-48ec-9198-fd3c1899eb9d.svg"></code>
+<code><img height="20" src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png"></code>
 
 - 🌱 I’m currently learning Spring Boot, Grails, C# 
 - 📫 How to reach me: aldomeztas@protonmail.com 
