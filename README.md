@@ -1,5 +1,5 @@
-## Hi there 👋, my name is Aldo
-#### I am an engineer in Intelligent Systems from the Autonomous University of the State of Mexico
+# Hi there 👋, my name is Aldo
+### I am an engineer in Intelligent Systems from the Autonomous University of the State of Mexico
 I am a curious person who likes to grow in all work and social environments. I love learning new things that I can implement to streamline large processes.
 
 **Skills:**  
@@ -26,7 +26,7 @@ I am a curious person who likes to grow in all work and social environments. I l
 - 🌱 I’m currently learning Spring Boot, Grails, C# 
 - 📫 How to reach me: aldomeztas@protonmail.com 
 
-# Social Networks
+## Social Networks
 
 [<img src='https://cdn.worldvectorlogo.com/logos/github-icon.svg' alt='github' height='40'>](https://github.com/Aldo-Meztas)  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aldo-meztas/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg' alt='facebook' height='40'>](https://www.facebook.com/aldo.jordison.7)  [<img src='https://cdn.worldvectorlogo.com/logos/reddit-4.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ALDO_MEZTAS)  
 
