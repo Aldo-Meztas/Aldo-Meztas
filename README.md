@@ -15,7 +15,7 @@ Skills: VUE JS / JS / HTML / CSS / PYTHON / DJANGO / PHP / DART / FLUTTER / JAVA
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/71904421/189272251-22884cc0-88ec-4afe-9ce3-c1ce6e02d5dd.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
 
 <br>
 - 🌱 I’m currently learning Spring Boot, Grails, C# 
