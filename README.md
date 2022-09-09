@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aldo
+## Hi there 👋, my name is Aldo
 #### I am an engineer in Intelligent Systems from the Autonomous University of the State of Mexico
 I am a curious person who likes to grow in all work and social environments. I love learning new things that I can implement to streamline large processes.
 
